@@ -16,10 +16,12 @@ Here are some ideas to get you started:
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "30px">, I'm IronMax03
 
 <!-- Bio section left intentionally blank for future updates -->
+> I am a Computer Science student and physics enthusiast. I am a diligent self-learner and eager to contribute to open-source.
 
 ---
 
-#### 🧠 Languages & Tools
+#### 🧠 Languages & Tool
+
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
