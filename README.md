@@ -13,14 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "30px">, I'm IronMax03
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "30px">, I'm Maximilien
 
 <!-- Bio section left intentionally blank for future updates -->
 > I am a Computer Science student and physics enthusiast. I am a diligent self-learner and eager to contribute to open-source.
+> 
+> ⚡ Fun fact: I’m currently diving into quantum computing and loving every qubit of it.
+
 
 ---
 
-#### 🧠 Languages & Tool
+#### 🧠 Languages & Tools
 
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -34,13 +37,14 @@ Here are some ideas to get you started:
 ---
 
 <!-- Optional GitHub Stats -->
-<details>
+<!--<details>
   <summary>📈 GitHub Stats</summary>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=IronMax03&show_icons=true&theme=radical" alt="IronMax03's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IronMax03&layout=compact&theme=radical" alt="Top Languages" />
-</details>
-
+</details>-->
+#### 📈 GitHub Stats  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=IronMax03&show_icons=true&theme=radical" alt="IronMax03's GitHub Stats" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IronMax03&layout=compact&theme=radical" alt="Top Languages" />
 <!-- Optional - Feel free to add social links, blog, or portfolio below -->
 
 <!--
