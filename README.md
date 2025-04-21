@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!-- Bio section left intentionally blank for future updates -->
 > I am a Computer Science student and physics enthusiast. I am a diligent self-learner and eager to contribute to open-source.
 > 
-> ⚡ Fun fact: I’m currently diving into quantum computing and loving every qubit of it.
+> ⚡ Fun fact: I’m currently diving into quantum computing.
 
 
 ---
