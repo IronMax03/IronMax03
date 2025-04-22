@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 <!-- Bio section left intentionally blank for future updates -->
 > I am a Computer Science student and physics enthusiast. I am a diligent self-learner and eager to contribute to open-source.
-> 
-> ⚡ Fun fact: I’m currently diving into quantum computing.
 
 
 ---
@@ -32,7 +30,14 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929c4?style=for-the-badge&logo=Qiskit&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+---
+### 🔭 What I’m Currently Working On
+- 🧪 **Quantum Information** — Currently learning the fundamentals of quantum information and exploring [Qiskit](https://docs.quantum.ibm.com/guides).
+- 🔧 **Open Source Contributions** — Actively looking for interesting repositories to contribute to.
+- 💡 **Personal Project** — Co-creator and maintainer of [AlgoHub](https://github.com/AlgorithmsAcademy/AlgoHub), a repository designed to help users prepare for coding interviews and learn new algorithms.
 
 ---
 
@@ -44,7 +49,9 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IronMax03&layout=compact&theme=radical" alt="Top Languages" />
 </details>-->
 #### 📈 GitHub Stats  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=IronMax03&show_icons=true&theme=radical" alt="IronMax03's GitHub Stats" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IronMax03&layout=compact&theme=radical" alt="Top Languages" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IronMax03&show_icons=true&theme=radical" alt="IronMax03's GitHub Stats" />
+</div>
 <!-- Optional - Feel free to add social links, blog, or portfolio below -->
 
 <!--
