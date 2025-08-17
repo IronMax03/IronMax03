@@ -37,7 +37,6 @@ Here are some ideas to get you started:
 ### 🔭 What I’m Currently Working On
 - 🧪 **Quantum Information** — Currently learning the fundamentals of quantum information and exploring [Qiskit](https://docs.quantum.ibm.com/guides).
 - 🔧 **Open Source Contributions** — Actively looking for interesting repositories to contribute to.
-- 💡 **Personal Project** — Co-creator and maintainer of [AlgoHub](https://github.com/AlgorithmsAcademy/AlgoHub), a repository designed to help users prepare for coding interviews and learn new algorithms.
 
 ---
 
