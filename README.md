@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "30px">, I'm Maximilien
 
 <!-- Bio section left intentionally blank for future updates -->
-> I am a Computer Science student and physics enthusiast. I am a diligent self-learner and eager to contribute to open-source.
+> I am a Computer Science student and physics enthusiast. 
 
 
 ---
