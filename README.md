@@ -49,9 +49,12 @@ Here are some ideas to get you started:
 </details>-->
 #### 📈 GitHub Stats  <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IronMax03&show_icons=true&theme=radical" alt="IronMax03's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IronMax03&theme=default&show_icons=true&hide_border=true&count_private=true" alt="IronMax03's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IronMax03&theme=default&show_icons=true&hide_border=true&layout=compact" alt="IronMax03's Top Languages" style="width: 390px; height: 195px;" />
 </div>
+
 <!-- Optional - Feel free to add social links, blog, or portfolio below -->
+
 
 <!--
 ### 🌐 Connect with me
