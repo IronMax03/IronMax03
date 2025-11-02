@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "30px">, I'm Maximilien
 
 <!-- Bio section left intentionally blank for future updates -->
-> I am a Computer Science student and physics enthusiast. 
+> I am a student Computer Science, My main area of interests are: physics, algorithms and quantume computing. I have very deversifieds smaller interest such as knot theory and DNA.
 
 
 ---
@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 ---
 ### 🔭 What I’m Currently Working On
 - 🧪 **Quantum Information** — Currently learning the fundamentals of quantum information and exploring [Qiskit](https://docs.quantum.ibm.com/guides).
+- 📈 **Julia Programming Language** — Learning [Julia](https://julialang.org/) for scientific computing and numerical simulations.
 - 🔧 **Open Source Contributions** — Actively looking for interesting repositories to contribute to.
 
 ---
@@ -47,7 +48,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=IronMax03&show_icons=true&theme=radical" alt="IronMax03's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IronMax03&layout=compact&theme=radical" alt="Top Languages" />
 </details>-->
-#### 📈 GitHub Stats  <br/>
+#### 📊 GitHub Stats  <br/>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IronMax03&theme=default&show_icons=true&hide_border=true&count_private=true" alt="IronMax03's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IronMax03&theme=default&show_icons=true&hide_border=true&layout=compact" alt="IronMax03's Top Languages" style="width: 390px; height: 195px;" />
