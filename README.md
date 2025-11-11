@@ -26,7 +26,7 @@
 - [KnotLib](https://github.com/IronMax03/KnotLib) — Experimental C++20 library for computational knot theory; aiming to implement core invariants and efficient representations bridging math and code.
 
 #### Projects
-- [DEBUG_MODE](https://github.com/IronMax03/DEBUG_MODE) — Lightweight C++ debugging helper with variable tracking; non-intrusive and easy to integrate for faster iteration than ad‑hoc logging.
+- [DEBUG_MODE](https://github.com/IronMax03/DEBUG_MODE) — Lightweight C++ debugging helper with variable tracking; non-intrusive and easy to integrate for faster iteration.
 - [Maze Generator With Cellular Automaton](https://github.com/IronMax03/Maze_Generator_With_Cellular_Automaton) — Cellular automaton that converts random noise into maze structures; demonstrates rule design and grid-based simulation.
 
 #### Mini / Experimental
