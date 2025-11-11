@@ -30,28 +30,17 @@
 
 ---
 
-### ⭐ Featured Projects
+### ⭐ Featured
+#### Curently working on
+- [KnotLib](https://github.com/IronMax03/KnotLib) — An experimental C++20 library for computational knot theory.
 
-<div align="center">
-  <a href="https://github.com/IronMax03/DEBUG_MODE">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=IronMax03&repo=DEBUG_MODE&hide_border=true"
-      alt="DEBUG_MODE"
-    />
-  </a>
-  <a href="https://github.com/IronMax03/KnotLib">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=IronMax03&repo=KnotLib&hide_border=true"
-      alt="KnotLib"
-    />
-  </a>
-  <a href="https://github.com/IronMax03/Cellular_Automaton_Framework">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=IronMax03&repo=Cellular_Automaton_Framework&hide_border=true"
-      alt="Cellular Automaton Framework"
-    />
-  </a>
-</div>
+#### Projects
+- [DEBUG_MODE](https://github.com/IronMax03/DEBUG_MODE) — A lightweight C++ library for efficient debugging with variable tracking. Easy to use and non-intrusive.
+- [Cellular Automaton Framework](https://github.com/IronMax03/Cellular_Automaton_Framework) — A framework for cellular automata in Java.
+
+#### Mini Projects
+- [Mandelbrot Set](https://gist.github.com/IronMax03/cb4b31312ade81716c42453aa2c8326d) - Generates high-resolution, smooth-colored rendering of the Mandelbrot set using Julia.
+- [Quantum Teleportation](https://gist.github.com/IronMax03/d7129ba60978fdd5a47e13fe898863c2) - A 1 qubit implementation of the quantum teleportation protocole.
 
 ---
 
