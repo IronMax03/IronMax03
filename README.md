@@ -6,6 +6,9 @@
 
 > Computer Science student combining theory (algorithms, quantum information, physics and math) with applied engineering (C++ systems, Julia/Python scientific computing).
 > Open to internship opportunities in R&D, scientific computing, and software engeniring.
+
+**Email:** maximiliennotz@webster.edu  
+
 ---
 
 #### 🧰 Languages & Tools
