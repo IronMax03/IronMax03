@@ -2,9 +2,9 @@
 **IronMax03/IronMax03** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 -->
 
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave">, I'm Maximilien
+### Hi there, I am Maximilien
 
-> I'm a Computer Science student passionate about physics, algorithms, and quantum computing. I also enjoy topics like knot theory and computational biology/DNA.
+> Computer Science student combining theory (algorithms, quantum information, physics and math) with applied engineering (C++ systems, Julia/Python scientific computing).
 
 ---
 
@@ -18,29 +18,40 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=Qiskit&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 ---
 
-### 🔭 What I’m Currently Working On
-- 🧪 Quantum Information — Learning the fundamentals and exploring [Qiskit](https://docs.quantum.ibm.com/guides).
-- 📈 Julia — Using [Julia](https://julialang.org/) for scientific computing and numerical simulation.
-- 🔧 Open Source — Looking for interesting repositories to contribute to.
+### ⭐ Featured Projects
 
-
----
-
-### ⭐ Featured
-#### Curently working on
-- [KnotLib](https://github.com/IronMax03/KnotLib) — An experimental C++20 library for computational knot theory.
+#### Active Project
+- [KnotLib](https://github.com/IronMax03/KnotLib) — An experimental C++20 library for computational knot theory; aiming to implement core invariants and efficient representations.
 
 #### Projects
-- [DEBUG_MODE](https://github.com/IronMax03/DEBUG_MODE) — A lightweight C++ library for efficient debugging with variable tracking. Easy to use and non-intrusive.
-- [Cellular Automaton Framework](https://github.com/IronMax03/Cellular_Automaton_Framework) — A framework for cellular automata in Java.
+- [DEBUG_MODE](https://github.com/IronMax03/DEBUG_MODE) — Lightweight C++ debugging helper with variable tracking; non-intrusive and easy to integrate.
+- [Maze Generator With Cellular Automaton](https://github.com/IronMax03/Maze_Generator_With_Cellular_Automaton) — A cellular automaton that convert randome noise to a maze.
 
-#### Mini Projects
-- [Mandelbrot Set](https://gist.github.com/IronMax03/cb4b31312ade81716c42453aa2c8326d) - Generates high-resolution, smooth-colored rendering of the Mandelbrot set using Julia.
-- [Quantum Teleportation](https://gist.github.com/IronMax03/d7129ba60978fdd5a47e13fe898863c2) - A 1 qubit implementation of the quantum teleportation protocole.
+#### Mini / Experimental
+- [Mandelbrot Set](https://gist.github.com/IronMax03/cb4b31312ade81716c42453aa2c8326d) — High-resolution smooth-color renderer of the Mandelbrot set in Julia.
+- [Quantum Teleportation](https://gist.github.com/IronMax03/d7129ba60978fdd5a47e13fe898863c2) — A 1‑qubit implementation of the quantum teleportation protocol using Qiskit.
+
+---
+
+### 🔭 Current Learning & 📚 Focus Areas
+
+#### Quantum information
+- **Learning:** quantum mechanics foundations and quantum information theory.
+
+#### Scientific computing (Julia/Python)
+- **Focus:** numerical simulation and visualization.
+- **Learning:** Julia programming basics (types, multiple dispatch) and scientific Python tooling.
+
+#### Algorithms & data structures
+- **Focus:** correctness, complexity analysis, and implementation.
+- **Learning:** strengthening problem-solving skills and implementation patterns.
+
+#### Systems/C++
+- **Focus:** lightweight libraries, debugging/tooling ergonomics, and performance.
+- **Learning:** modern C++ (C++20/23).
 
 ---
 
@@ -59,9 +70,9 @@
 
 ---
 
-<!-- Optional: add links below -->
+<!-- Optional: Add links below -->
 <!--
-### 🌐 Connect with me
+### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=windowsterminal&logoColor=white)](YOUR_PORTFOLIO_URL)
 -->
