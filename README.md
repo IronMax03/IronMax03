@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "30px">, I'm Maximilien
+### Hi there, I am Maximilien
 
 <!-- Bio section left intentionally blank for future updates -->
 > I am a student Computer Science, My main area of interests are: physics, algorithms and quantume computing. I have very deversifieds smaller interest such as knot theory and DNA.
