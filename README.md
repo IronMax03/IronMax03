@@ -52,20 +52,6 @@
 - **Focus:** lightweight libraries and performance.
 - **Learning:** modern C++ (C++20/23).
 
----
-
-#### 📊 GitHub Stats
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=IronMax03&show_icons=true&hide_border=true&count_private=true"
-    alt="IronMax03's GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IronMax03&layout=compact&hide_border=true"
-    alt="Top Languages"
-    style="max-width: 42%; min-width: 280px;"
-  />
-</div>
 
 ---
 
