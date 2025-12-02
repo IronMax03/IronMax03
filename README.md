@@ -38,21 +38,18 @@
 
 ---
 
-### 🔭 Current Learning & 📚 Focus Areas
+### 🔭 Current Learnin
 
 #### Quantum information
+- **Focus & Goal:** Quantum Algorithms and Quantum Simulations.
 - **Learning:** quantum mechanics foundations and quantum information theory.
 
 #### Scientific computing (Julia/Python)
-- **Focus:** numerical simulation and visualization.
+- **Focus & Goal:** numerical simulation and visualization.
 - **Learning:** Julia programming basics (types, multiple dispatch) and scientific Python tooling.
 
-#### Algorithms & data structures
-- **Focus:** correctness, complexity analysis, and implementation.
-- **Learning:** strengthening problem-solving skills and implementation patterns.
-
 #### Systems/C++
-- **Focus:** lightweight libraries, debugging/tooling ergonomics, and performance.
+- **Focus:** lightweight libraries and performance.
 - **Learning:** modern C++ (C++20/23).
 
 ---
