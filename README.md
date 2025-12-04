@@ -46,9 +46,9 @@
 
 #### Gallery
 <div align="center">
-  <img width="49%" alt="mandelbrot_zoom1" src="https://gist.github.com/user-attachments/assets/77b12296-6e6e-4089-987d-53565f5888d0" />
+  <img width="49%" alt="mandelbrot_zoom1" src="img/mandelbrotLite1.jpg" />
   <img width="49%" alt="maze_generator" src="img/MazeGeneratorDemo.gif" />
-  <img width="99%" alt="maze_generator" src="https://gist.github.com/user-attachments/assets/bbc57702-83e1-478f-be48-b01ab790d986" />
+  <img width="99%" alt="Quantum_Teleportation" src="img/QT_circuit.png" />
 </div>
 
 
