@@ -34,7 +34,7 @@
 
 ### ⭐ Featured Projects
 #### Active Project
-- [KnotLib](https://github.com/IronMax03/KnotLib) — Experimental C++20 library for computational knot theory; aiming to implement core invariants and efficient representations bridging math and code.
+- [KnotLib](https://github.com/IronMax03/KnotLib) — Experimental C++20 library for computational knot theory; implements core invariants and explores efficient representations bridging math and code.
 
 #### Projects
 - [DEBUG_MODE](https://github.com/IronMax03/DEBUG_MODE) — Lightweight C++ debugging helper with variable tracking; non-intrusive and easy to integrate for faster iteration.
