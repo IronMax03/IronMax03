@@ -53,7 +53,7 @@
 - **Learning:** quantum mechanics foundations and quantum information theory.
 
 #### Scientific computing (Julia/Python)
-- **Focus & Goal:** numerical simulation and visualization.
+- **Focus & Goal:** numerical simulation.
 - **Learning:** Julia programming basics and scientific Python tooling.
 
 #### Systems/C++
