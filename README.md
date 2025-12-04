@@ -54,7 +54,7 @@
 
 #### Scientific computing (Julia/Python)
 - **Focus & Goal:** numerical simulation and visualization.
-- **Learning:** Julia programming basics (types, multiple dispatch) and scientific Python tooling.
+- **Learning:** Julia programming basics and scientific Python tooling.
 
 #### Systems/C++
 - **Focus:** lightweight libraries and performance.
