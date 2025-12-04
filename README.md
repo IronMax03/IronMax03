@@ -1,13 +1,14 @@
 <!--
 **IronMax03/IronMax03** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi_There&height=100&section=header"/>
+</p>
 
-### Hi there, I am Maximilien
+> I am Maximilien, a computer science student combining theory (algorithms, quantum information, physics and math) with applied engineering (C++ systems, Julia/Python scientific computing).
+> Open to internship opportunities in R&D, scientific computing and software engineering.
 
-> Computer Science student combining theory (algorithms, quantum information, physics and math) with applied engineering (C++ systems, Julia/Python scientific computing).
-> Open to internship opportunities in R&D, scientific computing, and software engeniring.
-
-**Email:** maximiliennotz@webster.edu  
+**Email:** maximiliennotz@webster.edu
 
 ---
 
@@ -15,12 +16,16 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=Qiskit&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-blue?style=for-the-badge&logo=polars&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+
 
 ---
 
@@ -38,7 +43,7 @@
 
 ---
 
-### 🔭 Current Learnin
+### 🔭 Current Learning
 
 #### Quantum information
 - **Focus & Goal:** Quantum Algorithms and Quantum Simulations.
@@ -52,8 +57,15 @@
 - **Focus:** lightweight libraries and performance.
 - **Learning:** modern C++ (C++20/23).
 
+<!--
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=john-doe&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=john-doe&layout=compact)-->
 
----
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 <!-- Optional: Add links below -->
 <!--
