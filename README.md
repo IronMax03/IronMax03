@@ -44,6 +44,14 @@
 - [Mandelbrot Set](https://gist.github.com/IronMax03/cb4b31312ade81716c42453aa2c8326d) — High-resolution smooth-color renderer of the Mandelbrot set in Julia.
 - [Quantum Teleportation](https://gist.github.com/IronMax03/d7129ba60978fdd5a47e13fe898863c2) — 1‑qubit implementation of the quantum teleportation protocol using Qiskit.
 
+#### Gallery
+<div align="center">
+  <img width="49%" alt="mandelbrot_zoom1" src="https://gist.github.com/user-attachments/assets/77b12296-6e6e-4089-987d-53565f5888d0" />
+  <img width="49%" alt="maze_generator" src="img/MazeGeneratorDemo.gif" />
+  <img width="99%" alt="maze_generator" src="https://gist.github.com/user-attachments/assets/bbc57702-83e1-478f-be48-b01ab790d986" />
+</div>
+
+
 ---
 
 ### 🔭 Current Learning
