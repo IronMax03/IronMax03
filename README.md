@@ -46,9 +46,10 @@
 
 #### Gallery
 <div align="center">
-  <img width="49%" alt="mandelbrot_zoom1" src="img/mandelbrotLite1.jpg" />
-  <img width="49%" alt="maze_generator" src="img/MazeGeneratorDemo.gif" />
-  <img width="99%" alt="Quantum_Teleportation" src="img/QT_circuit.png" />
+  <img width="84%" alt="Climatic easons" src="img/climaticSeasons.png" />
+  <img width="42%" alt="mandelbrot_zoom1" src="img/mandelbrotLite1.jpg" />
+  <img width="42%" alt="maze_generator" src="img/MazeGeneratorDemo.gif" />
+  <img width="84%" alt="Quantum_Teleportation" src="img/QT_circuit.png" />
 </div>
 
 
