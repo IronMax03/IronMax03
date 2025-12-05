@@ -1,11 +1,14 @@
 <!--
 **IronMax03/IronMax03** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
+
+> I am Maximilien, a computer science student combining theory (algorithms, quantum information, physics and math) with applied engineering (C++ systems, Julia/Python scientific computing).
+> Open to internship opportunities in R&D, scientific computing and software engineering, based in Geneva, Switzerland.
 -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi_There&height=100&section=header"/>
 </p>
 
-> I am Maximilien, a computer science student combining theory (algorithms, quantum information, physics and math) with applied engineering (C++ systems, Julia/Python scientific computing).
+> I am Maximilien, a computer science student combining theory with applied engineering (C++ systems, Julia/Python scientific computing).
 > Open to internship opportunities in R&D, scientific computing and software engineering, based in Geneva, Switzerland.
 
 **Email:** maximiliennotz@webster.edu
