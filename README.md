@@ -51,7 +51,7 @@
   <img width="84%" alt="Quantum_Teleportation" src="img/QT_circuit.png" />
   <img width="84%" alt="Climatic easons" src="img/climaticSeasons.png" />
 
-(1) Mandelbrot renderer (2) Cellular Automato Maze generator (cellular automaton) (3) 1-qubit quantum teleportation (4) Climatic seasons & GDD clustering (wine-production analysis)
+**(1)** Mandelbrot renderer **(2)** Cellular Automato Maze generator (cellular automaton) **(3)** 1-qubit quantum teleportation circuit **(4)** Climatic seasons & GDD clustering (wine-production analysis)
 </div>
 
 
