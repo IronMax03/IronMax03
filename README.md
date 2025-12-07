@@ -51,21 +51,18 @@
 <div align="center">
   <img width="42%" alt="mandelbrot_zoom1" src="img/mandelbrotLite1.jpg" />
   <img width="42%" alt="maze_generator" src="img/MazeGeneratorDemo.gif" />
-
-  **(1)** Mandelbrot renderer **(2)** Cellular Automato Maze generator (cellular automaton).
+  <img width="84%" alt="Quantum_Teleportation" src="img/QT_circuit.png" /> 
+  
+  **(1)** Mandelbrot renderer **(2)** Cellular Automato Maze generator. **(3)** 1-qubit quantum teleportation circuit.
   </div>
 
 
 <details>
-<summary>Clique for more images</summary>
+<summary>Click for more images</summary>
 <div align="center">
-  <img width="84%" alt="Quantum_Teleportation" src="img/QT_circuit.png" /> 
-
-**(3)** 1-qubit quantum teleportation circuit.
-
   <img width="84%" alt="Climatic Seasons" src="img/climaticSeasons.png" />
 
-  **(4)** Climatic seasons & GDD clustering (wine-production analysis).
+  **(4)** Climatic seasons & GDD clustering (wine-production analysis)..
 
 <img width="84%" alt="Sierpiński triangle" src="img/SierpińskiTriangle.png" />
 
