@@ -68,7 +68,7 @@
 </div>
 </details>
 
-
+<!--
 ---
 
 ### 🔭 Current Learning
@@ -83,7 +83,7 @@
 
 #### Systems/C++
 - **Focus:** lightweight libraries and performance.
-- **Learning:** modern C++ (C++20/23).
+- **Learning:** modern C++ (C++20/23).-->
 
 <!--
 ## 📊 GitHub Stats
