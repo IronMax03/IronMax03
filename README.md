@@ -39,7 +39,7 @@
 #### Projects
 - [DEBUG_MODE](https://github.com/IronMax03/DEBUG_MODE) — Lightweight C++ debugging helper with variable tracking; non-intrusive and easy to integrate for faster iteration.
 - [Maze Generator With Cellular Automaton](https://github.com/IronMax03/Maze_Generator_With_Cellular_Automaton) — Cellular automaton that converts random noise into maze structures.
-- [Cellular_Atomaton_Framework](https://github.com/IronMax03/Cellular_Automaton_Framework) - A framework for building cellular automata in Java.
+- [wildfireSim](https://github.com/IronMax03/wildfireSim) - An ecosystem simulator that models vegetation growth with a stochastic cellular automaton, wildfires triggered by lightning strikes, and predator–prey interactions.
 
 #### Mini Projects
 - [Mandelbrot Set](https://gist.github.com/IronMax03/cb4b31312ade81716c42453aa2c8326d) — High-resolution smooth-color renderer of the Mandelbrot set in Julia.
