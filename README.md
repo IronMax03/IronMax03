@@ -34,9 +34,8 @@
 ---
 
 ### ⭐ Featured Projects
-#### Active Project
-- [KnotLib](https://github.com/IronMax03/KnotLib) — Experimental C++20 library for computational knot theory; implements core invariants and explores efficient representations bridging math and code.
 #### Projects
+- [KnotLib](https://github.com/IronMax03/KnotLib) — Experimental C++20 library for computational knot theory; implements core invariants and explores efficient representations bridging math and code.
 - [DEBUG_MODE](https://github.com/IronMax03/DEBUG_MODE) — Lightweight C++ debugging helper with variable tracking; non-intrusive and easy to integrate for faster iteration.
 - [Maze Generator With Cellular Automaton](https://github.com/IronMax03/Maze_Generator_With_Cellular_Automaton) — Cellular automaton that converts random noise into maze structures.
 - [wildfireSim](https://github.com/IronMax03/wildfireSim) - An ecosystem simulator that models vegetation growth with a stochastic cellular automaton, wildfires triggered by lightning strikes, and predator–prey interactions.
