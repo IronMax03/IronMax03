@@ -48,7 +48,7 @@
 <div align="center">
   <img width="42%" alt="mandelbrot_zoom1" src="img/mandelbrotLite1.jpg" />
   <img width="42%" alt="maze_generator" src="img/MazeGeneratorDemo.gif" />
-  <img width="91%" alt="Quantum_Teleportation" src="img/wildfireSim.png" /> 
+  <img width="91%" alt="wildfireSim" src="img/wildfireSim.png" /> 
   
   **(1)** Mandelbrot renderer **(2)** Cellular Automato Maze generator. **(3)** A ecosystem simulator that models vegetation growth, wildfires, and predator–prey interactions.
   </div>
