@@ -2,7 +2,7 @@
 **IronMax03/IronMax03** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi_There&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi_There&height=100&section=header&fontColor=b4b4c8"/>
 </p>
 
 > I am Maximilien, a computer science student combining theory with applied engineering (C++ systems, Julia/Python scientific computing).
