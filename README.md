@@ -54,7 +54,7 @@
 
 
   
-   **(1)** An interactive ecosystem simulator that models vegetation growth, wildfires, and predator–prey interactions. **(2)** An radiation shielding simulation where the cube is the shield. **(3)** Mandelbrot set fractal renderer. **(4)** Cellular automaton that generate a maze from noise.
+   **(1)** An radiation shielding simulation where the cube is the shield. **(2)** Mandelbrot set fractal renderer. **(3)** Cellular automaton that generate a maze from noise. **(4)** An interactive ecosystem simulator that models vegetation growth, wildfires, and predator–prey interactions.
   </div>
 
 
