@@ -39,7 +39,7 @@
 
 - [Maze Generator With Cellular Automaton](https://github.com/IronMax03/Maze_Generator_With_Cellular_Automaton) — Cellular automaton that converts random noise into maze structures.  
 **Keywords:** Java, Cellular automata, Emergent structures.
-#### Mini Projects
+#### Experiments
 - [Mandelbrot Set](https://gist.github.com/IronMax03/cb4b31312ade81716c42453aa2c8326d) — High-resolution smooth-color renderer of the Mandelbrot set in Julia.
 - [Quantum Teleportation](https://gist.github.com/IronMax03/d7129ba60978fdd5a47e13fe898863c2) — 1‑qubit implementation of the quantum teleportation protocol using Qiskit.
 
