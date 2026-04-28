@@ -35,7 +35,7 @@
 - [wildfireSim](https://github.com/IronMax03/wildfireSim) - An ecosystem simulator that models vegetation growth with a stochastic cellular automaton, wildfires triggered by lightning strikes and predator–prey interactions.  
   **Keywords:** Julia, Modeling, Stochastic cellular automata, ODE discretization, predator–prey dynamics, multi-scale system, Percolation Theory.
 
-- [radioactiveSim](https://github.com/IronMax03/radioactiveSim) - Radiation shielding simulation.  
+- [radioactiveSim](https://github.com/IronMax03/radioactiveSim) - A C++ radiation‑shielding simulator with Barnes–Hut acceleration and ParaView-ready output.
   **Keywords:** C++, Doctest, Doxygen, Barnes–Hut algorithm for electrodynamics, Radiation Protection simulation, ParaView, lazy data structures.
 
 - [DEBUG_MODE](https://github.com/IronMax03/DEBUG_MODE) — Lightweight C++ debugging helper with variable tracking; non-intrusive and easy to integrate for faster iteration.  
