@@ -32,11 +32,11 @@
 ### ⭐ Featured Projects
 
 #### Projects
-- [radioactiveSim](https://github.com/IronMax03/radioactiveSim) — Radiation shielding simulation (C++).  
-  **Keywords:** C++, Monte Carlo / particle transport (simulation), Rendering/visualization, Performance.
-
 - [wildfireSim](https://github.com/IronMax03/wildfireSim) - An ecosystem simulator that models vegetation growth with a stochastic cellular automaton, wildfires triggered by lightning strikes, and predator–prey interactions.  
   **Keywords:** Julia, Modeling, Stochastic cellular automata, ODE discretization, predator–prey dynamics, multi-scale system, Percolation Theory.
+
+- [radioactiveSim](https://github.com/IronMax03/radioactiveSim) — Radiation shielding simulation (C++).  
+  **Keywords:** C++, Barnes Hut Algorithm for Elctrodynamic, Radiation Protection simulation, ParaView, CI/CD, lazy datastructure.
 
 - [DEBUG_MODE](https://github.com/IronMax03/DEBUG_MODE) — Lightweight C++ debugging helper with variable tracking; non-intrusive and easy to integrate for faster iteration.  
   **Keywords:** C++, Preprocessor metaprogramming, System design.
