@@ -51,7 +51,7 @@
 #### Gallery
 <div align="center">
 
-  <img width="84.5%" alt="radioactive shielding simulation" src="img/radioactive_shielding_simulation.gif" /> 
+  <img width="84.5%" alt="radioactive shielding simulation" src="img/radioactive_shielding_simulation.png" /> 
   <img width="42%" alt="mandelbrot_zoom1" src="img/mandelbrotLite1.jpg" />
   <img width="42%" alt="maze_generator" src="img/MazeGeneratorDemo.gif" />
   <img width="91%" alt="wildfireSim" src="img/wildfireSim.png" /> 
