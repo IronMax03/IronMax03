@@ -36,7 +36,7 @@
   **Keywords:** Julia, Modeling, Stochastic cellular automata, ODE discretization, predator–prey dynamics, multi-scale system, Percolation Theory.
 
 - [radioactiveSim](https://github.com/IronMax03/radioactiveSim) - A C++ radiation‑shielding simulator with Barnes–Hut acceleration and ParaView-ready output.  
-  **Keywords:** C++, Doctest, Doxygen, Barnes–Hut algorithm for electrodynamics, Radiation Protection simulation, ParaView, lazy data structures.
+  **Keywords:** C++, Doctest, Doxygen, Barnes–Hut algorithm for electrodynamics, Particle transport simulator, ParaView, lazy data structures.
 
 - [DEBUG_MODE](https://github.com/IronMax03/DEBUG_MODE) — Lightweight C++ debugging helper with variable tracking; non-intrusive and easy to integrate for faster iteration.  
   **Keywords:** C++, Preprocessor metaprogramming, System design.
