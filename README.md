@@ -6,7 +6,7 @@
 </p>
 
 > I am Maximilien, a computer science student combining theory with applied engineering (C++ systems, Julia/Python scientific computing).
-> Open to internship opportunities in R&D, scientific computing and software engineering, based in Geneva, Switzerland.
+> Open to internship opportunities in R&D, machine learning and software engineering, based in Geneva, Switzerland.
 
 ---
 
