@@ -53,13 +53,13 @@
 
   <img width="84.5%" alt="radioactive shielding simulation" src="img/radioactiveSim.gif" /> 
   <img width="42%" alt="mandelbrot_zoom1" src="img/mandelbrotLite1.jpg" />
-  <img width="42%" alt="maze_generator" src="img/MazeGeneratorDemo.gif" />
+  <img width="42%" alt="maze_generator" src="img/Bernouli_Percolation_Demo.gif" />
   <img width="91%" alt="wildfireSim" src="img/wildfireSim.png" /> 
 
 
 
   
-   **(1)** An radiation shielding simulation where the cube is the shield. **(2)** Mandelbrot set fractal renderer. **(3)** Cellular automaton that generate a maze from noise. **(4)** An interactive ecosystem simulator (wildfireSim).
+   **(1)** A radiation shielding simulation where the cube is the shield. **(2)** Mandelbrot set fractal renderer. **(3)** Simulation of Bernoulli site percolation on a square lattice with von Neumann neighborhood. **(4)** An interactive ecosystem simulator (wildfireSim).
   </div>
 
 
