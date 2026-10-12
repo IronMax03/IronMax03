@@ -31,8 +31,8 @@
 ### ⭐ Featured Projects
 
 #### Projects
-- [seizureDetection](https://github.com/IronMax03/seizureDetection) - Work-in-progress EEG machine learning project exploring preprocessing, entropy based features, artifact removal, and neural network architectures for seizure detection and classification.  
-**Keywords:** Python, NumPy, PyTorch, EEG, Digital Signal Processing, CNNs, Feature-Wise Linear Modulation (FiLM), Wavelet Transforms
+- [seizureDetection](https://github.com/IronMax03/seizureDetection) - A work-in-progress research project developing an original EEG seizure-detection architecture, building on reproduced baselines toward a deployable detector with honest, patient-wise evaluation.  
+**Keywords:** Python, PyTorch, EEG, Digital Signal Processing, CNNs, RNNs, Feature-Wise Linear Modulation (FiLM), Entropy Features, Wavelet Transforms
 
 - [wildfireSim](https://github.com/IronMax03/wildfireSim) - An ecosystem simulator that models vegetation growth with a stochastic cellular automaton, wildfires triggered by lightning strikes and predator–prey interactions.  
   **Keywords:** Julia, Modeling, Stochastic cellular automata, ODE discretization, predator–prey dynamics, multi-scale system, Percolation Theory.
