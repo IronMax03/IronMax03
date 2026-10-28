@@ -31,7 +31,9 @@
 ### ⭐ Featured Projects
 
 #### Projects
-- [seizureDetection](https://github.com/IronMax03/seizureDetection) - A work-in-progress research project developing an original EEG seizure-detection architecture, building on reproduced baselines toward a deployable detector with honest, patient-wise evaluation.  
+
+- [seizureDetection](https://github.com/IronMax03/seizureDetection) - A work-in-progress research project developing an original neural network that uses entropy-based features via feature-wise linear
+modulation (FiLM), currently averaging 82% balanced accuracy and 63% AUPRC on the CHB-MIT Database, building on reproduced baselines toward a deployable detector.  
 **Keywords:** Python, PyTorch, EEG, Digital Signal Processing, CNNs, RNNs, Feature-Wise Linear Modulation (FiLM), Entropy Features, Wavelet Transforms
 
 - [wildfireSim](https://github.com/IronMax03/wildfireSim) - An ecosystem simulator that models vegetation growth with a stochastic cellular automaton, wildfires triggered by lightning strikes and predator–prey interactions.  
@@ -51,11 +53,11 @@
 <div align="center">
 
   <img width="84.5%" alt="radioactive shielding simulation" src="img/radioactiveSim.gif" /> 
-  <img width="42%" alt="mandelbrot_zoom1" src="img/mandelbrotLite1.jpg" />
-  <img width="42%" alt="maze_generator" src="img/Bernouli_Percolation_Demo.gif" />
+  <img width="42%" alt="eeg visual" src="img/seizure_topomap.gif" />
+  <img width="38%" alt="maze_generator" src="img/Bernouli_Percolation_Demo.gif" />
   <img width="91%" alt="wildfireSim" src="img/wildfireSim.png" /> 
   
-   **(1)** A radiation shielding simulation where the cube is the shield. **(2)** Mandelbrot set fractal renderer. **(3)** Simulation of Bernoulli site percolation on a square lattice with von Neumann neighborhood. **(4)** An interactive ecosystem simulator (wildfireSim).
+   **(1)** A radiation shielding simulation where the cube is the shield. **(2)** Scalp electric potential rendered with MNE. **(3)** Simulation of Bernoulli site percolation on a square lattice with von Neumann neighborhood. **(4)** An interactive ecosystem simulator (wildfireSim).
   </div>
 
 
