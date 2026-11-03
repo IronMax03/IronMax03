@@ -32,7 +32,7 @@
 
 #### Projects
 
-- [seizureDetection](https://github.com/IronMax03/seizureDetection) - A work-in-progress research project developing an original neural network that uses entropy-based features via feature-wise linear modulation (FiLM), currently averaging 82% balanced accuracy and 63% AUPRC on the CHB-MIT Database using 13.7k parameters, building on reproduced baselines toward a deployable detector.  
+- [seizureDetection](https://github.com/IronMax03/seizureDetection) - A work-in-progress research project developing an original neural network that uses entropy-based features via feature-wise linear modulation (FiLM), currently averaging 82% balanced accuracy and 63% AUPRC on the CHB-MIT Database using 13.7k parameters, building on reproduced baselines.  
 **Keywords:** Python, PyTorch, EEG, Digital Signal Processing, CNNs, RNNs, Feature-Wise Linear Modulation (FiLM), Entropy Features, Wavelet Transforms
 <div align="center">
     <img width="20%" alt="eeg visual" src="img/seizure_topomap.gif" />
