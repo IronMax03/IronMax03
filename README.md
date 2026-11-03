@@ -34,30 +34,28 @@
 
 - [seizureDetection](https://github.com/IronMax03/seizureDetection) - A work-in-progress research project developing an original neural network that uses entropy-based features via feature-wise linear modulation (FiLM), currently averaging 82% balanced accuracy and 63% AUPRC on the CHB-MIT Database using 13.7k parameters, building on reproduced baselines toward a deployable detector.  
 **Keywords:** Python, PyTorch, EEG, Digital Signal Processing, CNNs, RNNs, Feature-Wise Linear Modulation (FiLM), Entropy Features, Wavelet Transforms
+<div align="center">
+    <img width="25%" alt="eeg visual" src="img/seizure_topomap.gif" />
+  </div>
 
 - [wildfireSim](https://github.com/IronMax03/wildfireSim) - An ecosystem simulator that models vegetation growth with a stochastic cellular automaton, wildfires triggered by lightning strikes and predator–prey interactions.  
   **Keywords:** Julia, Modeling, Stochastic cellular automata, ODE discretization, predator–prey dynamics, multi-scale system, Percolation Theory.
+<div align="center">
+    <img width="91%" alt="wildfireSim" src="img/wildfireSim.png" /> 
+  </div>
 
 - [radioactiveSim](https://github.com/IronMax03/radioactiveSim) - A C++ radiation‑shielding simulator with Barnes–Hut acceleration and ParaView-ready output.  
   **Keywords:** C++, Doctest, Doxygen, Barnes–Hut algorithm for electrodynamics, Particle transport simulator, ParaView, lazy data structures.
-
+<div align="center">
+  <img width="84.5%" alt="radioactive shielding simulation" src="img/radioactiveSim.gif" /> 
+  </div>
+  
 - [DEBUG_MODE](https://github.com/IronMax03/DEBUG_MODE) — Lightweight C++ debugging helper with variable tracking; non-intrusive and easy to integrate for faster iteration.  
   **Keywords:** C++, Preprocessor metaprogramming, System design.
 
 #### Experiments
 - [Mandelbrot Set](https://gist.github.com/IronMax03/cb4b31312ade81716c42453aa2c8326d) — High-resolution smooth-color renderer of the Mandelbrot set in Julia.
 - [Quantum Teleportation](https://gist.github.com/IronMax03/d7129ba60978fdd5a47e13fe898863c2) — 1‑qubit implementation of the quantum teleportation protocol using Qiskit.
-
-#### Gallery
-<div align="center">
-
-  <img width="84.5%" alt="radioactive shielding simulation" src="img/radioactiveSim.gif" /> 
-  <img width="42%" alt="eeg visual" src="img/seizure_topomap.gif" />
-  <img width="38%" alt="maze_generator" src="img/Bernouli_Percolation_Demo.gif" />
-  <img width="91%" alt="wildfireSim" src="img/wildfireSim.png" /> 
-  
-   **(1)** A radiation shielding simulation where the cube is the shield. **(2)** Scalp electric potential rendered with MNE. **(3)** Simulation of Bernoulli site percolation on a square lattice with von Neumann neighborhood. **(4)** An interactive ecosystem simulator (wildfireSim).
-  </div>
 
 
 <p align="center">
