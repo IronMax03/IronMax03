@@ -35,7 +35,8 @@
 - [seizureDetection](https://github.com/IronMax03/seizureDetection) - A work-in-progress research project developing an original neural network that uses entropy-based features via feature-wise linear modulation (FiLM), currently averaging 82% balanced accuracy and 63% AUPRC on the CHB-MIT Database using 13.7k parameters, building on reproduced baselines toward a deployable detector.  
 **Keywords:** Python, PyTorch, EEG, Digital Signal Processing, CNNs, RNNs, Feature-Wise Linear Modulation (FiLM), Entropy Features, Wavelet Transforms
 <div align="center">
-    <img width="25%" alt="eeg visual" src="img/seizure_topomap.gif" />
+    <img width="20.3%" alt="eeg visual" src="img/seizure_topomap.gif" />
+    <img width="70%" alt="eeg visual" src="img/crnn_gru_apen.png" />
   </div>
 
 - [wildfireSim](https://github.com/IronMax03/wildfireSim) - An ecosystem simulator that models vegetation growth with a stochastic cellular automaton, wildfires triggered by lightning strikes and predator–prey interactions.  
